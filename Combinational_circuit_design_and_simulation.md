@@ -44,6 +44,8 @@ To run that a.out file
 The simulation result of 2-bit multiplier is 
 ![image](https://user-images.githubusercontent.com/89384474/147105524-d3e60e54-7a86-4857-8b23-b8f04fd373b0.png)
 
+tttttttttttttttttttttttttttttttt
+
 
 
 
