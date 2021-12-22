@@ -12,3 +12,51 @@ Fig.1 Figure shows how to open terminal in linux.
 We have to right click and press on open terminal
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<h2> Decoders</h2>
+
+![image](https://user-images.githubusercontent.com/89384474/147099479-eef8ef19-6d69-4839-9e8b-c80a22fdcc90.png)
+
+
+
+
+
